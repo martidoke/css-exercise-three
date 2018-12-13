@@ -8,14 +8,15 @@ body {
   font-size: 10px;
 }
 
-h1 {
+.content h1 {
   font-size: 1.9em;
   font-weight: 750;
 }
 
-h3 {
+.content h3 {
   font-size: 1.2em;
   font-weight: 450;
+  margin-top: 1em;
 }
 
 nav {
